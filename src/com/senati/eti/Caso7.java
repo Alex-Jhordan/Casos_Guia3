@@ -12,13 +12,7 @@ public class Caso7 {
 		
 		for (int x = 1; x <= 10; x++)
 			System.out.println(x + ". Bienvenido " + nombre + " al ciclo.");
-	
-		System.out.println("\n");
-		
-		for (int j = 10; j >= 1; j-=2)
-			System.out.println("Valor " + j);
-		
-		
+			
 	}
 
 }

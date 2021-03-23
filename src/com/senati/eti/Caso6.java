@@ -43,7 +43,7 @@ public class Caso6 {
 		System.out.println("RESUMEN");
 		System.out.println("=======");
 		System.out.println("Participantes registrados : " + nr);
-		System.out.println("Cantida de participantes aptos para votar : " + aptos);
+		System.out.println("Cantidad de participantes aptos para votar : " + aptos);
 	}
 
 }
